@@ -2,3 +2,4 @@
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
 root     tty1                      18:01    1:40m  0.01s  0.01s -bash
 krask    pts/0    192.168.0.50     18:02    4.00s  0.29s  0.00s w
+Вт дек 24 19:47:55 +03 2019
