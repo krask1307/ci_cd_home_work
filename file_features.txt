@@ -1,0 +1,4 @@
+итого 8
+-rw-rw-r--. 1 krask krask 299 дек 24 19:47 file_dev.txt
+-rw-rw-r--. 1 krask krask   0 дек 24 19:52 file_features.txt
+-rw-rw-r--. 1 krask krask  70 дек 24 19:37 file_master.txt
