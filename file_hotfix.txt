@@ -1,0 +1,7 @@
+root      1076  0.0  0.2 112920  4316 ?        Ss   17:50   0:00 /usr/sbin/sshd -D
+root      1622  0.0  0.3 158912  5988 ?        Ss   18:02   0:00 sshd: krask [priv]
+root      1626  0.0  0.3 158916  5852 ?        Ss   18:02   0:00 sshd: krask [priv]
+krask     1630  0.0  0.1 159212  2856 ?        S    18:02   0:00 sshd: krask@pts/0
+krask     1631  0.0  0.1 158916  2328 ?        S    18:02   0:00 sshd: krask@notty
+krask     1632  0.0  0.1  72248  2868 ?        Ss   18:02   0:00 /usr/libexec/openssh/sftp-server
+krask     2524  0.0  0.0 112736   960 pts/0    R+   19:57   0:00 grep --color=auto ssh
